@@ -13,9 +13,9 @@ Durante o desafio, foram explorados os seguintes serviços da AWS:
 
 ## 🗂️ Estrutura do Projeto
 
-A estrutura do repositório está organizada da seguinte forma:
+A arquitetura desenvolvida segue o diagrama abaixo:
 
-!Diagrama EC2
+![Diagrama EC2](./diagrama-ec2.jpg)
 
 
 ### 🧠 Explicação da Arquitetura
