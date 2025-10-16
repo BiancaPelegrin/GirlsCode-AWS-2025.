@@ -15,7 +15,8 @@ Durante o desafio, foram explorados os seguintes serviços da AWS:
 
 A arquitetura desenvolvida segue o diagrama abaixo:
 
-![Arquitetura AWS](https://github.com/BiancaPelegrin/GirlsCode-AWS-2025/blob/main/diagrama-ec2.jpg)
+<img width="386" height="321" alt="image" src="https://github.com/user-attachments/assets/c99ad93b-9bd2-4937-9666-2da3f7b65a37" />
+
 
 
 ### 🧠 Explicação da Arquitetura
