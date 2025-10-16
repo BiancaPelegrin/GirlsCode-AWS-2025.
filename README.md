@@ -15,7 +15,14 @@ Durante o desafio, foram explorados os seguintes serviços da AWS:
 
 A estrutura do repositório está organizada da seguinte forma:
 
-![Diagrama EC2](https://github.com/BiancaPelegrin/GirlsCode-AWS-2025./blob/main/AWS%20CodeGirls/images/diagrama-ec2.png?
+![Diagrama EC2](./AWS%20CodeGirls/images/diagrama-ec2.png)
+
+
+### 🧠 Explicação da Arquitetura
+1. O usuário faz upload de dados ou executa ações.
+2. O Amazon EC2 processa a requisição.
+3. Os dados são armazenados no EBS.
+4. A interface de usuário exibe o resultado.
 
 
 ## 💡Experiência e Insights
