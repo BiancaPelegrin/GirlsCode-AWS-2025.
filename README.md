@@ -15,7 +15,7 @@ Durante o desafio, foram explorados os seguintes serviços da AWS:
 
 A estrutura do repositório está organizada da seguinte forma:
 
-![Diagrama EC2](./AWS%20CodeGirls/images/diagrama-ec2.png)
+!Diagrama EC2
 
 
 ### 🧠 Explicação da Arquitetura
