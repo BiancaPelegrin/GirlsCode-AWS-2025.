@@ -1,4 +1,4 @@
-# AWS-Codegirls-Desafio 1
+# DIO Code Girls 2025
 Documentação do desafio de gerenciamento de instâncias EC2 na AWS - DIO
    
 
