@@ -1,4 +1,4 @@
-# AWS-Codegirls-Projet 1
+# AWS-Codegirls-Desafio 1
 Documentação do desafio de gerenciamento de instâncias EC2 na AWS - DIO
    
 
